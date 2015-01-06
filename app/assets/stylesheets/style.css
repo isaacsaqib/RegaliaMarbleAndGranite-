@@ -1,0 +1,46 @@
+body {
+  /*background-color: #c7cec5;*/
+  margin: 0px;
+}
+
+#nav {
+  background-color: white;
+  margin: 0px;
+  padding: 0px;
+  border: 3px solid black;
+
+}
+
+#logo {
+  height: 300px;
+  width:600px;
+  margin: 0 auto;
+  display: block;
+}
+
+#enter-link {
+  text-decoration:none;
+  color:black;
+  font-family: MS Mincho;
+  font-size:30px;
+  text-align:center;
+
+}
+
+#enter-link:hover {
+  font-size: 35px;
+  transition: .1s;
+}
+
+#navbar {
+  padding: 0px;
+  list-decoration:none;
+    text-align: center;
+
+}
+
+#navbar li {
+  display: inline-block;
+  font-family: MS Mincho;
+  font-size:15px;
+}
